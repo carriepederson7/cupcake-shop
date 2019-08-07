@@ -1,0 +1,31 @@
+p.cupcakes {
+  background-image: url("http://clipart-library.com/images/8cGbegyRi.jpg") ;
+  background-position: right-top;
+
+
+}
+
+h2.flashy {
+  color: red;
+  font-style: italic;
+}
+
+img {
+  border: 10px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+img.best {
+  border-style: double;
+  border: 10px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  border-color: gold;
+
+}
+p:hover, a:hover {
+  background-color: yellow;
+}
