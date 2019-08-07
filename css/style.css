@@ -1,3 +1,17 @@
+.section1 {
+  border= 150px;
+  background-color: green;
+}
+
+.section2 {
+  border= 15px;
+  background-color: yellow;
+}
+
+.bold {
+  font-style: italic;
+}
+
 p.cupcakes {
   background-image: url("http://clipart-library.com/images/8cGbegyRi.jpg") ;
   background-position: right-top;
@@ -5,7 +19,11 @@ p.cupcakes {
 
 }
 
-h2.flashy {
+.blog2 {
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/91kbGLwlQ2L._SY879_.jpg");
+}
+
+.flashy {
   color: red;
   font-style: italic;
 }
@@ -17,15 +35,20 @@ img {
   width: 150px;
 }
 
-img.best {
+img.cupcakelady {
   border-style: double;
   border: 10px solid #ddd;
   border-radius: 4px;
   padding: 5px;
   width: 150px;
-  border-color: gold;
+  border-color:;
 
 }
 p:hover, a:hover {
-  background-color: yellow;
+  background-color: red;
 }
+
+
+}
+p:hover, a:hover {
+  background-color: red;
